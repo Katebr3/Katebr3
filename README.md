@@ -2,7 +2,7 @@
   <h1>Hello🌞</h1>
   
   [![Link](https://img.shields.io/badge/telega-ffd9fe)](https://t.me/lananki) 
-  [![Link](https://img.shields.io/badge/email-ffd9fe)](katebr86@gmail.com)
+  [![Link](https://img.shields.io/badge/email-ffd9fe)](mailto:katebr86@gmail.com)
   
  <p>My name is Kate 🔪</p>
  
